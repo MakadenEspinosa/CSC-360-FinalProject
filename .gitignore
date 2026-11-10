@@ -1,0 +1,14 @@
+# Build output
+**/[Bb]in/
+**/[Oo]bj/
+**/TestResults/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE and local tooling
+.idea/
